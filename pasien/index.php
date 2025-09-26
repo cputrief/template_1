@@ -17,7 +17,7 @@ include('../navbar.php');
             <div class="col-10 m-auto mt-5">
                 <div class="card">
                     <div class="card-header text-center">
-                       <h3>👩‍⚕️Welcome To Data Pasien</h3> 
+                       <h3>👩‍⚕️Welcome </h3> 
                     </div>
                     <div class="card-body">
                         <a href="form.php" class="btn btn-primary mb-3">Tambah Data</a>
@@ -25,10 +25,10 @@ include('../navbar.php');
                             <thead>
                                 <tr class="table table-success table-striped text-center">
                                 <th scope="col">No</th>
-                                <th scope="col">Nama Pasien</th>
-                                <th scope="col">Tanggal Lahir</th>
-                                <th scope="col">Jenis Kelamin</th>
-                                <th scope="col">Alamat</th>
+                                <th scope="col">#</th>
+                                <th scope="col">#</th>
+                                <th scope="col">#</th>
+                                <th scope="col">#</th>
                                 <th scope="col">Aksi</th>
                                 </tr>
                             </thead>
