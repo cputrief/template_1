@@ -11,10 +11,10 @@
             Form
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/PREPARATION_UJIKOM/pasien/index.php">Data Pasien</a></li>
-            <li><a class="dropdown-item" href="/PREPARATION_UJIKOM/dokter/index.php">Data Dokter</a></li>
-            <li><a class="dropdown-item" href="/PREPARATION_UJIKOM/poli/index.php">Data Poli</a></li>
-            <li><a class="dropdown-item" href="/PREPARATION_UJIKOM/berobat/index.php">Berobat</a></li>
+            <li><a class="dropdown-item" href="/cputrief/template_1/pasien/index.php">Data Pasien</a></li>
+            <li><a class="dropdown-item" href="/cputrief/template_1/dokter/index.php">Data Dokter</a></li>
+            <li><a class="dropdown-item" href="/cputrief/template_1/poli/index.php">Data Poli</a></li>
+            <li><a class="dropdown-item" href="/cputrief/template_1/berobat/index.php">Berobat</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -22,9 +22,9 @@
             Laporan
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/PREPARATION_UJIKOM/pasien/laporan.php">List Pasien</a></li>
-            <li><a class="dropdown-item" href="/PREPARATION_UJIKOM/dokter/laporan.php">List Dokter</a></li>
-            <li><a class="dropdown-item" href="/PREPARATION_UJIKOM/berobat/laporan.php">List Data Berobat</a></li>
+            <li><a class="dropdown-item" href="/cputrief/template_1/pasien/laporan.php">List Pasien</a></li>
+            <li><a class="dropdown-item" href="/cputrief/template_1/dokter/laporan.php">List Dokter</a></li>
+            <li><a class="dropdown-item" href="/cputrief/template_1/berobat/laporan.php">List Data Berobat</a></li>
           </ul>
         </li>
       </ul>
